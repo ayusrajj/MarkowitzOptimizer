@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+pandas
+scipy
+pydantic
+yfinance
+cachetools
+pytest
+httpx
