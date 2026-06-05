@@ -2,7 +2,7 @@
 
 A production-grade quantitative portfolio asset allocation and validation system. It elevates standard single-script mathematical computations into a full-stack, decoupled application featuring a Python/FastAPI backend and a premium React/Vite frontend inspired by modern fintech applications (like Groww).
 
-![Dashboard Preview](docs/dashboard_1.png)
+![Dashboard Preview](dashboard_1.png)
 
 ## Features 🚀
 
@@ -14,7 +14,7 @@ A production-grade quantitative portfolio asset allocation and validation system
 - **Yahoo Finance Autocomplete**: Dynamically search for tickers with intelligent live-fetching from Yahoo Finance.
 - **Theme Toggle**: Switch seamlessly between premium Dark and Light modes.
 
-![Allocation Breakdown](docs/dashboard_2.png)
+![Allocation Breakdown](dashboard_2.png)
 
 ## Architecture 🏗️
 
